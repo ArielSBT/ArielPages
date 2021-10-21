@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Ariel to GitHub Pages
+
+Esta es una prueba de Github pages con temas de Jekyll.
 
 You can use the [editor on GitHub](https://github.com/ArielSBT/ArielPages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,12 +13,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+  
+# Acerca de la clase 
+## Proyectos
+### Notas
 
-- Bulleted
-- List
+
+Los estudiantes destacados son: 
+
+- Ariel
+- Steven
+- yzzz
+- Dfr
 
 1. Numbered
 2. List
